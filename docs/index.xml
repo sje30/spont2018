@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spontaneous Activity in Brain Development</title>
-    <link>sje30.github.io/spont2018/</link>
+    <link>http://sje30.github.io/spont2018/</link>
     <description>Recent content on Spontaneous Activity in Brain Development</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="sje30.github.io/spont2018/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sje30.github.io/spont2018/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
