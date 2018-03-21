@@ -1,4 +1,4 @@
-baseurl: "http://sje30.github.io/spont2018/"
+baseurl: "https://sje30.github.io/spont2018/"
 title: "Spontaneous Activity in Brain Development"
 canonifyurls: true
 theme: "hugo-conference"
