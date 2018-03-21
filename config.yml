@@ -9,7 +9,7 @@ publishDir: docs
 params:
   # Conference info
   Name: "SPONT2018"
-  Description: "Conference description"
+  Description: "Spontaneous activity in brain development"
   Date: "October 8-10, 2018"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "Museum Volkenkunde Leiden"
