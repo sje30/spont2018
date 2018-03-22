@@ -69,6 +69,7 @@ params:
     - name: "Check-in  / Breakfast"
       time: "9h00"
     - name: "James Ackman"
+      text: "UC Santa Cruz"
       photo: "/img/ackman.jpg"
       bio: "UC Santa Cruz" 
       company: "UC Santa Cruz"
